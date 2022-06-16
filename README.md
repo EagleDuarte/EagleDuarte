@@ -22,4 +22,6 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{EagleDuarte}/count.svg" /></p> 
 <br></div>
  
- <img src='' title="Steve Jobs" alt="">
+ <div align="center">
+ <img src='https://user-images.githubusercontent.com/107157839/174124980-2cf0ed9e-9bda-4735-86ca-b67cd33ee381.jpg' title="Steve Jobs" alt="">
+ </div>
