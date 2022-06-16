@@ -14,8 +14,7 @@
 </p>
 <p align="left">
 🧠  Estudando: <strong> Full Stack Web Development, GrowDev.
- Atualmente estamos iniciando o front-end, criando e personalizando HTML's através do VSCODE. Também estamos utilizando o GitHub e o Git para criar e clonar repositórios.
-.</strong>
+ Atualmente estamos iniciando o front-end, criando e personalizando HTML's através do VSCODE. Também estamos utilizando o GitHub e o Git para criar e clonar repositórios.</strong>
 </p>
 <hr>
 
