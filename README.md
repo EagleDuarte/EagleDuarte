@@ -5,7 +5,7 @@
 🔹 Nome: <strong> Leonardo Duarte.</strong>
 </p>
 <p align="left">
-🔹 Formação: <strong> Ensino Médio, EEEM Fernando Ferrari. Inglês, Yázigi (Nível Avançado). Starter Full Stack Developer, GrowDev (Em andamento).</strong>
+🔹 Formação: <strong> Ensino Médio Completo, EEEM Fernando Ferrari. Inglês, Yázigi (Nível Avançado). Starter Full Stack Developer, GrowDev (Em andamento).</strong>
 </p>
 <p align="left">
 🔹 Hobbies: <strong> Em meu tempo livre busco ler livros, praticar exercícios fisicos (academia e futebol) e também priorizo importantemente passar sempre um tempinho junto a família. </strong>
