@@ -1,4 +1,23 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=180&section=header&text=Welcome, that's my GitHub profile.&fontSize=30&fontColor=FAFAD2&animation=twinkling&fontAlignY=35"/> 
+<hr>
+<p align="center">
+😎 Nome: <strong> Leonardo Duarte.</strong>
+</p>
+<p align="center">
+📚 Formação: <strong> Ensino Médio, EEEM Fernando Ferrari. +2 anos de Inglês, Yázigi. Starter Full Stack Developer, GrowDev (Em andamento).</strong>
+</p>
+<p align="center">
+❤️  Hobbies: <strong> Em meu tempo livre busco ler livros, praticar exercícios fisicos (academia e futebol) e também priorizo importantemente passar sempre um tempinho junto a família. </strong>
+</p>
+<p align="center">
+🚀  Experiências Profissionais: <strong> Durante oito anos trabalhei no setor comercial. Há mais de um ano atuo como Assistente Administrativo realizando aberturas e atualizações de contas bancárias para o Sicredi através da Meta. </strong>
+</p>
+<p align="center">
+🧠  Estudando: <strong> Full Stack Web Development, GrowDev.
+ Atualmente estamos iniciando o front-end, criando e personalizando HTML's através do VSCODE.
+.</strong>
+</p>
+<hr>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=32CD32&size=35&center=true&vCenter=true&width=1000&lines=Hello+folks,+my+name+is+Leonardo+Duarte.;I'm+21+years+old.;I'm+from+Novo+Hamburgo,+RS,+Brazil.;I'm+actually+studying+Web+Development+at+GrowDev.;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
