@@ -1,19 +1,20 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=180&section=header&text=Welcome, that's my GitHub profile.&fontSize=30&fontColor=FAFAD2&animation=twinkling&fontAlignY=35"/> 
+
 <hr>
 <p align="left">
-Nome: <strong> Leonardo Duarte.</strong>
+🔹 Nome: <strong> Leonardo Duarte.</strong>
 </p>
 <p align="left">
-Formação: <strong> Ensino Médio, EEEM Fernando Ferrari. +2 anos de Inglês, Yázigi. Starter Full Stack Developer, GrowDev (Em andamento).</strong>
+🔹 Formação: <strong> Ensino Médio, EEEM Fernando Ferrari. Inglês, Yázigi (Nível Avançado). Starter Full Stack Developer, GrowDev (Em andamento).</strong>
 </p>
 <p align="left">
-Hobbies: <strong> Em meu tempo livre busco ler livros, praticar exercícios fisicos (academia e futebol) e também priorizo importantemente passar sempre um tempinho junto a família. </strong>
+🔹 Hobbies: <strong> Em meu tempo livre busco ler livros, praticar exercícios fisicos (academia e futebol) e também priorizo importantemente passar sempre um tempinho junto a família. </strong>
 </p>
 <p align="left">
-Experiências Profissionais: <strong> Durante oito anos atuando no setor comercial. Há mais de um ano atuo como Assistente Administrativo realizando aberturas e atualizações de contas bancárias para o Sicredi através da Meta. </strong>
+🔹 Experiências Profissionais: <strong> Durante oito anos atuando no setor comercial. Há mais de um ano atuo como Assistente Administrativo realizando aberturas e atualizações de contas bancárias para o Sicredi através da Meta. </strong>
 </p>
 <p align="left">
-Estudando: <strong> Full Stack Web Development, GrowDev. Atualmente estamos iniciando o front-end.</strong>
+🔹 Estudando: <strong> Full Stack Web Development, GrowDev. Atualmente estamos iniciando o front-end.</strong>
 </p>
 <hr>
 
