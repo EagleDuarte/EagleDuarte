@@ -13,8 +13,7 @@
 🚀  Experiências Profissionais: <strong> Durante oito anos atuando no setor comercial. Há mais de um ano atuo como Assistente Administrativo realizando aberturas e atualizações de contas bancárias para o Sicredi através da Meta. </strong>
 </p>
 <p align="left">
-🧠  Estudando: <strong> Full Stack Web Development, GrowDev.
- Atualmente estamos iniciando o front-end, criando e personalizando HTML's através do VSCODE.</strong>
+🧠  Estudando: <strong> Full Stack Web Development, GrowDev. Atualmente estamos iniciando o front-end.</strong>
 </p>
 <hr>
 
