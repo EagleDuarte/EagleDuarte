@@ -8,7 +8,7 @@
 🔹 Formação: <strong> Ensino Médio Completo, EEEM Fernando Ferrari. Inglês, Yázigi (Nível Avançado). Starter Full Stack Developer, GrowDev (Em andamento).</strong>
 </p>
 <p align="left">
-🔹 Hobbies: <strong> Em meu tempo livre busco ler livros, praticar exercícios fisicos (academia e futebol) e também priorizo importantemente passar sempre um tempinho junto a família. </strong>
+🔹 Hobbies: <strong> Em meu tempo livre busco ler livros, praticar exercícios fisicos (como por exemplo academia ou futebol) e também priorizo importantemente passar sempre um tempinho junto a família. </strong>
 </p>
 <p align="left">
 🔹 Experiências Profissionais: <strong> Durante oito anos atuei no setor comercial. Há mais de um ano atuo como Assistente Administrativo realizando aberturas e atualizações de contas bancárias para o Sicredi através da Meta. </strong>
