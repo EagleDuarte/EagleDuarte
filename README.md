@@ -1,21 +1,34 @@
 ![Cópia de Vídeo Promocional de Produto Grunge Moderno Preto e Branco Neon Amarelo](https://user-images.githubusercontent.com/107157839/185296127-4148b999-5b8b-4a80-982f-b3a52ac497d4.gif)
 
 <hr>
-<p align="left">
-🔹 Name: <strong> Leonardo Duarte.</strong>
-</p>
-<p align="left">
-🔹 Education: <strong> High School, EEEM Fernando Ferrari. English, Yázigi (Advanced Level).</strong>
-</p>
-<p align="left">
-🔹 Hobbies: <strong> Well, I love to read books to acquiring new knowdledges and open myself to new perspectives. I use to practice physical exercises and also I always prioritize spending time with my family and friends. </strong>
-</p>
-<p align="left">
-🔹 Professional Experience: <strong> During eight years I've worked in the commercial sector. Now, I'm currently working as an Administrative Assistant for over a year, performing services of opening and updating bank accounts. (Sicredi, Meta) </strong>
-</p>
-<p align="left">
-🔹 Studying: <strong> Full Stack Web Development, GrowDev. We're actually benning front-end and CSS.</strong>
-</p>
+
+```js
+
+import Estudent - Full Stack Web Developer from 'EagleDuarte';
+class aboutMe extends Administrative Assistant {
+  
+  name = 'Leonardo Duarte';
+  work = 'Bank Account opening and updating services...';
+  company = 'Meta';
+  location = 'Novo Hamburgo, RS';
+
+}
+
+class Skills extends asEstudent {
+  languages  = ['CSS', 'JavaScript', 'Loading...'];
+  hobbies  = ['I love reading books to absorb new knowdledges and open my mind to new perspectives. 
+  I like to practice physical exercises, having also a spiritual life and I always spend some time with my family and friends.'];
+  professionalExperience = ['During eight years I've worked on the commercial sector. 
+  Now, I'm currently working as an Administrative Assistant for over a year, performing services of opening and updating bank accounts. 
+  (Sicredi, Meta)'];
+
+}
+ 
+ studying = ['Full Stack Web Development, at GrowDev. 
+ We're actually in the heart of front-end, having a deep study about JavaScript and CSS. 
+ Now we're about to begin TypeScript.'];
+
+```
 <hr>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4169E1&size=35&center=true&vCenter=true&width=1000&lines=Hello+folks,+my+name+is+Leonardo+Duarte.;I'm+21+years+old.;I'm+from+Novo+Hamburgo,+RS,+Brazil.;I'm+actually+studying+Web+Development.;Be+Welcome!+:%29)](https://git.io/typing-svg)
