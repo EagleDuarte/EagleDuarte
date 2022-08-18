@@ -21,12 +21,12 @@ class Skills extends asEstudent {
   hobbies  = ['I love reading books to absorb new knowdledges and open my mind to new perspectives. 
   I like to practice physical exercises, having also a spiritual life and I always spend some time with my family and friends.'];
   
-  professionalExperience = ['During eight years Ive worked in the commercial sector. 
-  Now, Im currently working as an Administrative Assistant for over a year, performing services of opening and updating bank accounts. 
+  professionalExperience = ['During eight years I've worked in the commercial sector. 
+  Now, I'm currently working as an Administrative Assistant for over a year, performing services of opening and updating bank accounts. 
   (Sicredi, Meta)'];
   
   studying = ['Full Stack Web Development, at GrowDev. 
-  We re actually in the heart of front-end, having a deep study about JavaScript and CSS. 
+  We're actually in the heart of front-end, having a deep study about JavaScript and CSS. 
   Now we're about to begin TypeScript.'];
 
 }
