@@ -4,7 +4,7 @@
 
 ```js
 
-import Estudent - Full Stack Web Developer from 'EagleDuarte';
+import Estudent - Full Stack Web Development from 'EagleDuarte';
 class aboutMe extends Administrative Assistant {
   
   name = 'Leonardo Duarte';
@@ -36,7 +36,7 @@ class Skills extends asEstudent {
 ```
 <hr>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4169E1&size=35&center=true&vCenter=true&width=1000&lines=Hello+folks,+my+name+is+Leonardo+Duarte.;I'm+21+years+old.;I'm+from+Novo+Hamburgo,+RS,+Brazil.;I'm+actually+studying+Web+Development.;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4169E1&size=35&center=true&vCenter=true&width=1000&lines=Hello+folks,+my+name+is+Leonardo+Duarte.;I'm+22+years+old.;I'm+from+Novo+Hamburgo,+RS,+Brazil.;I'm+actually+studying+Web+Development.;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 ![Contribution](https://activity-graph.herokuapp.com/graph?username=EagleDuarte&theme=gotham&hide_border=true&area=true)
 
