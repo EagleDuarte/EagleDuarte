@@ -64,3 +64,11 @@ class Skills extends asEstudent {
  <div align="center">
  <img src='https://user-images.githubusercontent.com/107157839/174124980-2cf0ed9e-9bda-4735-86ca-b67cd33ee381.jpg' title="Steve Jobs" alt="">
  </div>
+  
+<hr>
+<div align="center">
+  <a href="https://github.com/EagleDuarte">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EagleDuarte&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EagleDuarte&layout=compact&langs_count=7&theme=midnight-purple"/>
+</div>
+<hr>
