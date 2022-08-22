@@ -1,3 +1,6 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF8C00&size=35&center=true&vCenter=true&width=1000&lines=Hello+folks,+my+name+is+Leonardo+Duarte.;I'm+22+years+old.;I'm+from+Novo+Hamburgo,+RS,+Brazil.;I'm+actually+studying+Web+Development.;Be+Welcome!+:%29)](https://git.io/typing-svg)
+<hr>
+
 ![Cópia de Vídeo Promocional de Produto Grunge Moderno Preto e Branco Neon Amarelo](https://user-images.githubusercontent.com/107157839/185296127-4148b999-5b8b-4a80-982f-b3a52ac497d4.gif)
 
 <hr>
@@ -36,8 +39,6 @@ class Skills extends asEstudent {
 ```
 <hr>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4169E1&size=35&center=true&vCenter=true&width=1000&lines=Hello+folks,+my+name+is+Leonardo+Duarte.;I'm+22+years+old.;I'm+from+Novo+Hamburgo,+RS,+Brazil.;I'm+actually+studying+Web+Development.;Be+Welcome!+:%29)](https://git.io/typing-svg)
-
 ![Contribution](https://activity-graph.herokuapp.com/graph?username=EagleDuarte&theme=gotham&hide_border=true&area=true)
 
 <div align="center">  
@@ -60,11 +61,7 @@ class Skills extends asEstudent {
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{EagleDuarte}/count.svg" /></p> 
 <br></div>
- 
- <div align="center">
- <img src='https://user-images.githubusercontent.com/107157839/174124980-2cf0ed9e-9bda-4735-86ca-b67cd33ee381.jpg' title="Steve Jobs" alt="">
- </div>
-  
+
 <hr>
 <div align="center">
   <a href="https://github.com/EagleDuarte">
@@ -72,3 +69,9 @@ class Skills extends asEstudent {
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EagleDuarte&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
 <hr>
+ 
+ <hr>
+ <div align="center">
+ <img src='https://user-images.githubusercontent.com/107157839/174124980-2cf0ed9e-9bda-4735-86ca-b67cd33ee381.jpg' title="Steve Jobs" alt="">
+ </div>
+ <hr>
