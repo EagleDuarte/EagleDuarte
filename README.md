@@ -37,9 +37,6 @@ class Skills extends asEstudent {
 }
 
 ```
-<hr>
-
-![Contribution](https://activity-graph.herokuapp.com/graph?username=EagleDuarte&theme=gotham&hide_border=true&area=true)
 
 <hr>
 <div align="center">  
