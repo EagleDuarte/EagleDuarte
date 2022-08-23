@@ -19,7 +19,7 @@ class aboutMe extends Administrative Assistant {
 
 class Skills extends asEstudent {
   
-  languages  = ['CSS', 'JavaScript', 'Loading...'];
+  languages  = ['CSS', 'JavaScript', 'TypeScript...'];
   
   hobbies  = ['I love reading books to absorb new knowdledges and open my mind to new perspectives. 
   I like to practice physical exercises, having also a spiritual life and 
