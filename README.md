@@ -8,7 +8,7 @@
 ```js
 
 import Estudent - Full Stack Web Development from 'EagleDuarte';
-class aboutMe extends Administrative Assistant {
+class aboutMe extends PersonalSummary {
   
   name = 'Leonardo Duarte';
   work = 'Bank Account opening and updating services...';
@@ -18,9 +18,10 @@ class aboutMe extends Administrative Assistant {
 }
 
 class Skills extends Developer {
+  
+  languages  = ['Portugol', 'CSS', 'JavaScript', 'Bootstrap', 'TypeScript...'];
   summary = 'The actual profile and projects here doesnt define my current experience, 
   for more information, please contact me personally.';
-  languages  = ['Portugol', 'CSS', 'JavaScript', 'Bootstrap', 'TypeScript...'];
 
 }
 
