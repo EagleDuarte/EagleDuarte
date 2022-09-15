@@ -25,7 +25,7 @@ class Skills extends asEstudent {
 
 class Resume extends Developer {
   
-  introduction  = ['The actual profile and projects here doesn't define my current experience, for more information, please contact me personally.'];
+  summary = ['The actual profile and projects here doesnt define my current experience, for more information, please contact me personally.'];
 
 }
 
