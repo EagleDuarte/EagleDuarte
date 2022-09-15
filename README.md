@@ -20,7 +20,7 @@ class aboutMe extends PersonalSummary {
 class Skills extends Developer {
   
   languages  = ['Portugol', 'CSS', 'JavaScript', 'Bootstrap', 'TypeScript...'];
-  summary = 'The actual profile and projects here doesnt define my current experience, 
+  information = 'After all, any profile doesnt define my current experience and knowledge, 
   for more information, please contact me personally.';
 
 }
