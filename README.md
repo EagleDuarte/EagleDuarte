@@ -19,20 +19,13 @@ class aboutMe extends Administrative Assistant {
 
 class Skills extends asEstudent {
   
-  languages  = ['Portugol', 'CSS', 'JavaScript', 'TypeScript...'];
+  languages  = ['Portugol', 'CSS', 'JavaScript', 'Bootstrap', 'TypeScript...'];
+
+}
+
+class Resume extends Developer {
   
-  hobbies  = ['I love reading books to absorb new knowdledges and open my mind to new perspectives. 
-  I like to practice physical exercises, having also a spiritual life and 
-  I always spend some time with my family and friends.'];
-  
-  professionalExperience = ['During eight years I've worked in the commercial sector. 
-  Now, I'm currently working as an Administrative Assistant for over a year, 
-  performing services of opening and updating bank accounts. 
-  (Sicredi, Meta)'];
-  
-  studying = ['Full Stack Web Development, at GrowDev. 
-  We're actually in the heart of front-end, having a deep study about JavaScript and CSS. 
-  Now we're about to begin TypeScript.'];
+  introduction  = ['The actual profile and projects here doesn't define my current experience, for more information, please contact me personally.'];
 
 }
 
