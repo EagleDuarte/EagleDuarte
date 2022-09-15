@@ -17,15 +17,10 @@ class aboutMe extends Administrative Assistant {
 
 }
 
-class Skills extends asEstudent {
-  
+class Skills extends Developer {
+  summary = 'The actual profile and projects here doesnt define my current experience, 
+  for more information, please contact me personally.';
   languages  = ['Portugol', 'CSS', 'JavaScript', 'Bootstrap', 'TypeScript...'];
-
-}
-
-class Resume extends Developer {
-  
-  summary = ['The actual profile and projects here doesnt define my current experience, for more information, please contact me personally.'];
 
 }
 
