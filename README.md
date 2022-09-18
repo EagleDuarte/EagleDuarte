@@ -21,7 +21,8 @@ class Skills extends Developer {
   
   languages  = ['Portugol', 'CSS', 'JavaScript', 'Bootstrap', 'TypeScript...'];
   studying = ['Full Stack Web Development, at GrowDev. 
-  We're actually in the heart of front-end, having a deep study about JavaScript, TypeScript, Bootstrap and CSS.'];
+  We are actually in the heart of front-end, having a deep study about 
+  JavaScript, TypeScript, Bootstrap and CSS.'];
   
 }
 
