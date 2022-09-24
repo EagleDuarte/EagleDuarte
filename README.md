@@ -21,7 +21,7 @@ class Skills extends Developer {
   
   languages  = ['Portugol', 'CSS', 'JavaScript', 'TypeScript...'];
   frameworks  = ['Bootstrap', 'React...'];
-  studying = ['Full Stack Web Development, at GrowDev.]
+  studying = ['Full Stack Web Development, at GrowDev.']
   
 }
 
