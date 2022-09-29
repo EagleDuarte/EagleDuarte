@@ -50,7 +50,19 @@ class Skills extends Developer {
 </a>
 </div>
  
- <hr><hr>
+<hr>
+
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)&nbsp;
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
+![Node.JS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
+<img src="https://img.shields.io/badge/React-282C34?style=for-the-badge&logo=react&logoColor=%2361dafb" />
+<img src="https://img.shields.io/badge/Vercel-575757?style=for-the-badge&logo=vercel&logoColor=white" />
+ 
+ <hr>
  <div align="center">
  <img src='https://user-images.githubusercontent.com/107157839/174124980-2cf0ed9e-9bda-4735-86ca-b67cd33ee381.jpg' title="Steve Jobs" alt="">
  </div>
