@@ -19,7 +19,7 @@ class aboutMe extends PersonalSummary {
 
 class Skills extends Developer {
   
-  languages  = ['Portugol', 'CSS', 'JavaScript', 'TypeScript', 'React...'];
+  languages  = ['CSS', 'JavaScript', 'TypeScript', 'React...'];
   frameworks  = ['Bootstrap', 'Material UI...'];
   studying = ['Full Stack Web Development, at GrowDev. 
   Just finished all modules of Front-End, now on Back-End.']
