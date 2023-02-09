@@ -67,6 +67,7 @@ class Skills extends Developer {
 <img src="https://img.shields.io/badge/React-282C34?style=for-the-badge&logo=react&logoColor=%2361dafb" />
 <img src="https://img.shields.io/badge/Vercel-575757?style=for-the-badge&logo=vercel&logoColor=white" />
 <img src="https://img.shields.io/badge/-API-181717?style=for-the-badge&logo=json" />
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 
  </div>
  
