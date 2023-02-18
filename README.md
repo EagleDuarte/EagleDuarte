@@ -22,7 +22,7 @@ class Skills extends Developer {
   languages  = ['CSS', 'JavaScript', 'TypeScript', 'React...'];
   frameworks  = ['Bootstrap', 'Material UI...'];
   studying = ['Full Stack Web Development, at GrowDev. 
-  Just finished all modules of Front-End, now on Back-End.']
+  Just finished all modules of Front-End and Back-End, now on Database.']
   
 }
 
