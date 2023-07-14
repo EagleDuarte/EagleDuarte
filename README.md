@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF6347&size=35&center=true&vCenter=true&width=1000&lines=Hello+folks,+my+name+is+Leonardo+Duarte.;I'm+22+years+old.;I'm+from+Novo+Hamburgo,+RS,+Brazil.;I'm+actually+studying+Web+Development.;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF6347&size=35&center=true&vCenter=true&width=1000&lines=Hello+folks,+my+name+is+Leonardo+Duarte.;I'm+23+years+old.;I'm+from+Novo+Hamburgo,+RS,+Brazil.;I'm++Formed+as+a+Full+Stack+Software+Developer.;Be+Welcome!+:%29)](https://git.io/typing-svg)
 <hr>
 
 ![Cópia de Vídeo Promocional de Produto Grunge Moderno Preto e Branco Neon Amarelo](https://user-images.githubusercontent.com/107157839/185296127-4148b999-5b8b-4a80-982f-b3a52ac497d4.gif)
