@@ -83,11 +83,11 @@ class Skills extends Developer {
 <br></div>
 <hr>
 
-<div align="center"><b>Some applications:</b>
-<br><a href="point-app-tawny.vercel.app">point-app-tawny.vercel.app</a>
-<br><a href="https://finished-fullvibe-site-main.vercel.app">https://finished-fullvibe-site-main.vercel.app</a>
-<br><a href="despertador-delta.vercel.app">despertador-delta.vercel.app</a>
-<br><a href="gaming-da-velha.vercel.app">gaming-da-velha.vercel.app</a>
-<br><a href="personal-portifolio-x7hq.vercel.app">personal-portifolio-x7hq.vercel.app</a>
-<br><a href="reactcalcularjs.vercel.app">reactcalcularjs.vercel.app</a>
-</div>
+<div align="center"><b>Some recent applications:</b>
+<br><a href="point-app-tawny.vercel.app">Clock in/out - Registro de ponto</a>
+<br><a href="https://finished-fullvibe-site-main.vercel.app">Site Full Vibe</a>
+<br><a href="despertador-delta.vercel.app">Despertador - Alarm</a>
+<br><a href="gaming-da-velha.vercel.app">Tic Tac Toe - Jogo da Velha</a>
+<br><a href="personal-portifolio-x7hq.vercel.app">Portfólio</a>
+<br><a href="reactcalcularjs.vercel.app">Calculator</a>
+</div><hr>
