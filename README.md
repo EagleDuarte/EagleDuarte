@@ -72,6 +72,7 @@ class Skills extends Developer {
 </div>
  
  <hr>
+
  <div align="center">
  <img src='https://user-images.githubusercontent.com/107157839/174124980-2cf0ed9e-9bda-4735-86ca-b67cd33ee381.jpg' title="Steve Jobs" alt="">
  </div>
@@ -81,3 +82,12 @@ class Skills extends Developer {
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{EagleDuarte}/count.svg" /></p> 
 <br></div>
 <hr>
+
+<div align="center"><b>Some applications:</b>
+<br><a href="point-app-tawny.vercel.app">point-app-tawny.vercel.app</a>
+<br><a href="https://finished-fullvibe-site-main.vercel.app">https://finished-fullvibe-site-main.vercel.app</a>
+<br><a href="despertador-delta.vercel.app">despertador-delta.vercel.app</a>
+<br><a href="gaming-da-velha.vercel.app">gaming-da-velha.vercel.app</a>
+<br><a href="personal-portifolio-x7hq.vercel.app">personal-portifolio-x7hq.vercel.app</a>
+<br><a href="reactcalcularjs.vercel.app">reactcalcularjs.vercel.app</a>
+</div>
