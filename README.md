@@ -90,4 +90,5 @@ class Skills extends Developer {
 <br><a href="https://game-da-velha.vercel.app" target="_blank">Tic Tac Toe - Jogo da Velha</a>
 <br><a href="https://personal-portifolio-x7hq.vercel.app" target="_blank">Portfólio</a>
 <br><a href="https://reactcalcularjs.vercel.app" target="_blank">Calculator</a>
+<br><a href="https://react-page-dark-light.vercel.app" target="_blank">Página em React</a>
 </div><hr>
